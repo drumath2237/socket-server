@@ -1,0 +1,12 @@
+{
+  "name": "socket-server",
+  "version": "0.1.0",
+  "main": "app.js",
+  "repository": "https://github.com/drumath2237/socket-server.git",
+  "author": "drumath <2237k.drumath@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.1.1"
+  }
+}
